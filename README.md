@@ -10,6 +10,8 @@
 
   ## Usage
   GitHub Repository: https://github.com/EricKim86/progressive-web-application-text-editor <br/>
+  Deployed Application: https://hidden-hamlet-22116.herokuapp.com/ <br/>
+
 
   Get Category Example: <br/>
   Text Editor:<br/>
