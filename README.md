@@ -5,15 +5,17 @@
 
   ## Installation<br/>
   The user must have node.js installed with the following dependencies: <br/>
-    -express (v. 4.17.1)
+    -express (v. 4.17.1)<br/>
     -if-env (v. 1.0.4
 
   ## Usage
   GitHub Repository: https://github.com/EricKim86/progressive-web-application-text-editor <br/>
 
   Get Category Example: <br/>
-  <img src="https://github.com/EricKim86/progressive-web-application-text-editor/blob/main/assets/images/example.png?raw=true" width="600"/><br/>
-  <img src="https://github.com/EricKim86/progressive-web-application-text-editor/blob/main/assets/images/icon.png?raw=true" width="600"/><br/>
+  Text Editor:<br/>
+  <img src="https://github.com/EricKim86/progressive-web-application-text-editor/blob/main/Assets/example.png?raw=true" width="600"/><br/>
+  Icon on Desktop:<br/>
+  <img src="https://github.com/EricKim86/progressive-web-application-text-editor/blob/main/Assets/icon.png?raw=true" width="600"/><br/>
 
 
   ## Contribute
