@@ -6,7 +6,7 @@
   ## Installation<br/>
   The user must have node.js installed with the following dependencies: <br/>
     -express (v. 4.17.1)<br/>
-    -if-env (v. 1.0.4
+    -if-env (v. 1.0.4)
 
   ## Usage
   GitHub Repository: https://github.com/EricKim86/progressive-web-application-text-editor <br/>
